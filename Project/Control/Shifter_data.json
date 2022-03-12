@@ -1,0 +1,24 @@
+[
+    {
+        "name": "mahmud",
+        "nid":"9919",
+        "age": "21",
+        "email": "mahmud123@gmail.com",
+        "mobile": "161616161616",
+        "gender": "Male",
+        "availability": "Afternoon_Shift(1PM-6PM)",
+        "username": "mahmud101",
+        "password": "mhmd2"
+    },
+    {
+        "name": "zidan",
+        "nid":"9219",
+        "age": "22",
+        "email": "sazidan559@gmail.com",
+        "mobile": "+8801640423606",
+        "gender": "Male",
+        "availability": "Morning_Shift(7AM-12PM)",
+        "username": "zidan010",
+        "password": "zids"
+    }
+]

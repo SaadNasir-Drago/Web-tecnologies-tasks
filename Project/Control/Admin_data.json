@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Sadir Ahmed",
+        "age": "21",
+        "email": "saahmed123@gmail.com",
+        "mobile": "16221616161616",
+        "gender": "Male",
+        "nid": "1923839008",
+        "username": "ahmed010",
+        "password": "SPAD010"
+    },
+    {
+        "name": "Zidan Ahmed",
+        "age": "21",
+        "email": "sazidanahmed123@gmail.com",
+        "mobile": "2216221616161616",
+        "gender": "Male",
+        "nid": "1112923839008",
+        "username": "zahmed00",
+        "password": "SPAD020"
+    }
+]
