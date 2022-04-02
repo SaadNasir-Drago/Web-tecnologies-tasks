@@ -4,7 +4,7 @@ include "../control/results.php";
 <!DOCTYPE html>
 <html>
 <body>
-
+//s
 <h1>Registration Form</h1><hr>
 <table>
 <form action="" method="post" >
